@@ -1,6 +1,9 @@
 Hi, I’m Ema 👋
+
 I’m interested in web dev and currently learning HTML, CSS, JAVASCRIPT and REACT JS 👀
+
 I’m looking to collaborating on various projects 💞️
+
 ...Ema is pronounced as "Air_ma" 😄✨...
 
 
